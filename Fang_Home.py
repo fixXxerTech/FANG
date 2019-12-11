@@ -72,10 +72,11 @@ banner= '''
 |                                                                    |
 |====================================================================|
 		Author             : ThefixXxer
+		Version            : 1.0.0
 		Linkdin            : Ikenna Alfred Managwu
 		Follow me on Github: @ThefixXxer
-'''.replace('=',b).replace('|',b2).replace("'@",at).replace('<<',too2).replace('[!]',lud).replace('FANG',fangg).replace('Author',colored('Author', 'red')).replace('Linkdin',
-	colored('Linkdin', 'red')).replace('Follow me on Github',colored('Follow me on Github', 'red')).replace('ThefixXxer',colored('ThefixXxer', 'green')).replace('Ikenna Alfred Managwu',
+'''.replace('=',b).replace('|',b2).replace("'@",at).replace('<<',too2).replace('[!]',lud).replace('FANG',fangg).replace('Author',colored('Author', 'red')).replace('Version',colored('Version', 'red')).replace('Linkdin',
+	colored('Linkdin', 'red')).replace('Follow me on Github',colored('Follow me on Github', 'red')).replace('ThefixXxer',colored('ThefixXxer', 'green')).replace('1.0.0',colored('1.0.0', 'green')).replace('Ikenna Alfred Managwu',
 	colored('Ikenna Alfred Managwu', 'green')).replace(':',colored(':', 'yellow')).replace("@ThefixXxer",colored("@ThefixXxer", 'green'))
 
 time.sleep(0.8)
