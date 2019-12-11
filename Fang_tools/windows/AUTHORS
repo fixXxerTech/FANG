@@ -1,0 +1,30 @@
+This utiity was primarily built and tested by:
+
+	Managwu Ikenna Alred	(@ThefixXxer)
+ 
+
+
+Many thanks to the following people whos collective work on firefox_decrypt was very significant in creating Fang[Mozilla_varient]:
+
+	
+    Renato Alves        (@unode)		-Primary developer of firefox_dycrypt
+
+    George L. Yermulnik (@yermulnik)
+    Christoph Schulz    (@criztovyl)
+    Anthropohedron      (@Anthropohedron)
+    Alister Amo         (@AlisterAmo)
+    Levis Florian       (@Gounlaf)
+    João Miguel Neves   (@jneves)
+    Erich Seifert       (@eseifert)
+    Sebastian Endres    (@sedrubal)
+
+
+As third party developers often go uncredited, we'd also like to extend our
+thanks to:
+
+    Wilhelm Schuermann  (@wbsch)            - bash_tap
+    Paul Beckingham     (@taskwarrior)      - test scripts
+    Hubert Kario                            - pointed out the solution for v59 profile changes
+
+
+Clone: https://github.com/unode/firefox_decrypt/
